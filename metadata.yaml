@@ -1,0 +1,31 @@
+_repo: The-Hindoos-as-they-Areof-Hindoo-Society-in-Bengal_37722
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sivachandra Vasu
+    aliases:
+    - Vasu, Sivachandra
+    - Bose, Shib Chunder
+    gutenberg_agent_id: '39008'
+    url: http://www.gutenberg.org/2009/agents/39008
+description: ''
+gutenberg_issued: '2011-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37722'
+  lccn: '38014065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Social life and customs'
+- !lcsh 'Hindus'
+- !lcc 'DS'
+- !lcsh 'Women -- India'
+title: "The Hindoos as They Are\r\nA Description of the Manners, Customs and the Inner\
+  \ Life of Hindoo Society in Bengal"
+url: http://www.gutenberg.org/ebooks/37722
